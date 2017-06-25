@@ -1,0 +1,3 @@
+F:\Programing\Java\Projects\TriangleFinder\src\TriangleFinder.java
+F:\Programing\Java\Projects\TriangleFinder\src\TriangleFinderFrame.java
+F:\Programing\Java\Projects\TriangleFinder\src\TriangleSolver.java

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>TriangleFinder</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>TriangleFinder</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\TriangleFinder.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\TriangleSolver.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<bookmarks>
+		<bookmark>
+			<path>src\TriangleFinder.java</path>
+			<line>41</line>
+			<enable>true</enable>
+		</bookmark>
+	</bookmarks>
+	<symboltables>
+		<symboltable>
+			<path>src\TriangleSolver.java.sdk</path>
+			<symbols>
+				<symbol>TriangleSolver</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\TriangleFinder.java.sdk</path>
+			<symbols>
+				<symbol>TriangleFinder</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

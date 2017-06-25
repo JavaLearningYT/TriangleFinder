@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TriangleFinder</label>
+		<id>668</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>TriangleFinder.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TriangleFinder.jcp</path>
+		</project>
+	</projects>
+</workspace>
