@@ -1,5 +1,9 @@
 /*
-	 *
+created by:JavaLearning
+watch the creation of the program here:https://www.youtube.com/playlist?list=PLKI11Bx4Zx23ue2eYJRrPDH2KLJegYvXL
+*/
+
+/*
 	 * 0=bottom right angle
 	 * 1=top left angle
 	 * 2=hypotenuse
