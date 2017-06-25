@@ -1,3 +1,8 @@
+/*
+Program made by: JavaLearning
+Watch the program in development here
+https://www.youtube.com/playlist?list=PLKI11Bx4Zx23ue2eYJRrPDH2KLJegYvXL
+*/
 import javafx.application.Application;
 import javafx.event.*;
 import javafx.scene.*;
